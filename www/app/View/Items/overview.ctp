@@ -143,7 +143,7 @@
 		views[1] = {view:'data', name:'<?php echo __('Data'); ?>'};
 		views[2] = {view:'datas', name:'<?php echo __('Sent'); ?>'};
 		views[3] = {view:'datar', name:'<?php echo __('Received'); ?>'};
-		views[4] = {view:'dur', name:'<?php echo __('Dutation'); ?>'};
+		views[4] = {view:'dur', name:'<?php echo __('Duration'); ?>'};
 
 		// labels
 		ssvg = d3.select("#oselect").append("svg")
